@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Millionaire</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="title">Quem Quer Ser Milionário</string>
+    <string name="action_settings">Definições</string>
+    <string name="txtNewGame">Novo Jogo</string>
+    <string name="txtSettings">Definições</string>
+
+    <color name="blue">#3145DE</color>
+    <color name="white">#FFFFFF</color>
+    <string name="title_activity_game">GameActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="toast_game_over">PERDES-TE BURRRO!!</string>
+
+    <string name="Cinquenta">50:50</string>
+    <string name="Publico">Público</string>
+    <string name="Telefone">Telefone</string>
+</resources>
